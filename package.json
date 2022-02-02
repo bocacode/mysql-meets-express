@@ -1,7 +1,7 @@
 {
   "name": "mysql-meets-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Daries most wonderful project ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
